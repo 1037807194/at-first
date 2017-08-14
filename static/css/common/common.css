@@ -1,0 +1,191 @@
+body{
+  overflow-x: hidden;
+  background-color: #fff;
+}
+
+
+/* header */
+.layout-header{
+  text-align: center;
+  background-color: #1d1d1d;
+}
+
+.header{
+  width: 1280px;
+  margin: 0 auto;
+}
+
+.header .logo,
+.header .menu{
+  height: 80px;
+}
+
+.header .logo{
+  width: 264px;
+}
+
+.header .menu{
+  width: 1016px;
+}
+
+.header .logo img{
+  width: 162px;
+  height: auto;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+.header .menu-list{
+  text-align: center;
+  font-size: 16px;
+  color: #919191;
+}
+
+.header .menu-item{
+  width: 145px;
+  height: 80px;
+  line-height: 80px;
+}
+
+.header .menu-item:hover{
+  cursor: pointer; /*鼠标光标*/
+  color: #b48607;
+  background-color: #272727;
+}
+
+.header .menu-item.current{
+  color: #fff;
+}
+
+/* slide */
+
+.layout-slide{
+  width: 100%;
+}
+
+.layout-slide img{
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* main */
+.layout-main{
+  width: 1280px;
+  margin: 0 auto;
+  padding: 22px 0;
+}
+
+/* footer */
+.layout-footer{
+  height: 287px;
+  text-align: center;
+  background-color: #202020;
+}
+
+.footer{
+  width: 1280px;
+  height: 157px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.footer .company-intro,
+.footer .contact-us,
+.footer .our-address{
+  height: 160px;
+}
+
+.footer .company-intro{
+  width: 368px;
+}
+
+.footer .contact-us{
+  width: 535px;
+  border-left: dashed #fff 1px;
+  border-right: dashed #fff 1px;
+}
+
+.footer .our-address{
+  width: 375px;
+}
+
+.footer .about-us,
+.footer .product-center{
+  width: 184px;
+}
+
+.footer .about-us dl,
+.footer .product-center dl,
+.footer .contact-us dl{
+    text-align: left;
+}
+
+.footer .about-us dl{
+  margin-left: 25px;
+}
+
+.footer .contact-us dl{
+  margin-left: 107px;
+}
+
+.footer .about-us dt,
+.footer .product-center dt,
+.footer .contact-us dt{
+  margin-bottom: 16px;
+  font-size: 18px;
+  color: #fff;
+}
+
+.footer .about-us dd,
+.footer .product-center dd,
+.footer .contact-us dd{
+  height: 15px;
+  line-height: 15px;
+  font-size: 14px;
+  color: #909090;
+}
+
+.footer .about-us dd,
+.footer .product-center dd{
+  margin-top: 14px;
+}
+
+.footer .contact-us dl{
+  margin-bottom: 20px;
+}
+
+.footer .contact-us dd{
+  margin-top: 10px;
+}
+
+.footer .contact-us dd.company-address{
+  margin-top: 20px;
+}
+
+.footer .our-address .img-wrapper{
+  width:260px;
+  height: 145px;
+  margin-top: 10px;
+  margin-left: 87px;
+}
+
+.layout-footer .copyright{
+  height: 30px;
+  line-height: 30px;
+  font-size: 12px;
+  color: #fff;
+  background-color: #000;
+}
+ a:link{
+  text-decoration: none;
+
+}
+a:hover{
+  background: #272727;
+   cursor:pointer;
+    color: #b48607;
+}
+ a{
+  color:#797979;
+}

@@ -1,0 +1,174 @@
+body{
+  overflow-x: hidden;
+  background-color:#fff;
+ }
+
+.header{
+    width: 100%;
+    background-color: #1d1d1d;
+}
+.header-bor{
+    width: 1280px;
+  margin: auto;
+}
+logo{
+    width: 167px;
+    height: 78px;
+
+}
+.header.logo img{
+    width: 162px;
+   
+
+}
+.navi{
+    width:1016;
+}
+.list{
+    text-align: center;
+    color: #919191;
+    font-size: 16px;
+}
+.item{
+    width: 145px;
+    height: 78px;
+    line-height:78px;
+}
+.item:hover{
+    cursor:pointer;
+    color: #b48607;
+    background-color: #272727;
+}
+.current{
+    color:#fff;
+}
+
+    /*中部*/
+.main{  
+    width: 100%;
+    min-height:600px;
+}
+.back{
+    width: 100%;
+    background: #000;
+}
+.top-half{
+    width: 1280px;
+    height: 79px;
+    margin: 0 auto;
+    background: #000;
+    
+}
+.left-half{
+    font-size:24px;
+    color:#fff;
+    margin-top: 28px;
+    margin-left: 33px;
+    background: #000;
+
+    
+}
+.right-half a{
+    color:#fff;
+    background:gray;
+    font-size: 16px;
+    width: 60px;
+    height: 30px;
+    float:right;
+    text-align: center;
+    line-height: 30px;
+    margin-top:  30px;
+     text-decoration: none;
+     cursor:pointer;
+}
+input{
+    width: 212px;
+    height: 30px;
+    border: none;
+    float:right;
+     margin-top:  30px;
+}
+.bottom-half{
+    width: 100%;
+    background: #fff;
+     
+}
+.half{
+    width: 1280px;
+    height: 380px;
+    margin: 0 auto;
+}
+.cut{
+    width: 148px;
+    height: 228px;
+    text-align: center;
+    margin-left: 139px;
+    padding-top:38px;
+   
+}
+.sify{
+    font-size: 36px;
+    color:#b48607;
+    padding-bottom: 39px;
+    
+}
+.cut-sify{
+    width: 90px;
+    height: 215px;
+    text-align: left;
+     margin-left: 20px;
+    
+}
+.sify-one{
+    font-size:18px;
+    padding-bottom: 43px;
+   
+
+}
+.matic{
+    color: #b48607;   
+  
+}
+.matic-bor{
+    width: 80px;
+    border-top:2px solid #b48607;
+    position: relative;
+    top:-30px;
+}
+    .middle{     
+        height: 326px;
+        margin-left: 124px;
+        margin-top: 36px;
+    }
+    .two-us{
+        font-size: 16px;
+        color:#b48607;
+        padding-bottom: 50px;
+    }
+    .two-phone{
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+  .two-border{
+      border-bottom: 2px solid #b48607;
+       position: relative;
+       top:30px;
+
+  }
+    .half-right{
+        width: 436px;
+        height: 213px;
+        margin-top: 94px;
+    }
+    .three-border{
+        width: 436px;
+        border:1px solid #b48607;
+           position: relative;
+         top: -28px;
+         left:-130px;
+      
+    }
+.sify-one a:hover{
+    background: none;
+    
+}

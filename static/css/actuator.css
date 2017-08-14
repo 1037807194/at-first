@@ -1,0 +1,281 @@
+body{
+  overflow-x: hidden;
+  background-color:#fff;
+ }
+
+.header{
+    width: 100%;
+    background-color: #1d1d1d;
+}
+.header-bor{
+    width: 1280px;
+  margin: auto;
+}
+logo{
+    width: 167px;
+    height: 78px;
+
+}
+.header.logo img{
+    width: 162px;
+   
+
+}
+.navi{
+    width:1016;
+}
+.list-tx{
+    text-align: center;
+    color: #919191;
+    font-size: 16px;
+}
+.item{
+    width: 145px;
+    height: 78px;
+    line-height:78px;
+}
+.item:hover{
+    cursor:pointer;
+    color: #b48607;
+    background-color: #272727;
+}
+
+
+    /*中部*/
+.main{  
+    height: 1320px;
+width: 100%;
+}
+.back{
+    width: 100%;
+    height: 80px;
+    background: #000;
+}
+.top-half{
+    width: 1280px;
+    height: 80px;
+    margin: 0 auto;
+    background: #000;
+    
+}
+.left-half{
+    font-size:24px;
+    color:#fff;
+    margin-top: 28px;
+    margin-left: 33px;
+    background: #000;
+
+    
+}
+.right-half a{
+    color:#fff;
+    background:gray;
+    font-size: 16px;
+    width: 60px;
+    height: 30px;
+    float:right;
+    text-align: center;
+    line-height: 30px;
+    margin-top:  30px;
+     text-decoration: none;
+     cursor:pointer;
+}
+input{
+    width: 212px;
+    height: 30px;
+    border: none;
+    float:right;
+     margin-top:  30px;
+     color:#bbb;
+     font-size: 14px;
+
+    
+}
+.half-com{
+    width:100%;
+
+    background: #fff;
+}
+.half-pany{
+width: 1280px;
+height:1239px;
+margin: 0 auto;
+}
+
+.main-pany{   
+    width: 144px;
+    height: 288px;
+    margin-left: 143px;
+    margin-top: 36px;
+    text-align:-webkit-center;
+
+}
+
+.pany-gs{
+font-size: 36px;
+color:#b48607;
+margin-bottom: 42px;
+}
+.pany-tx{
+    width: 95px;
+    height: 213px;
+        text-align: left;
+  
+}
+.pany-list a{
+    color:#000;
+    
+}
+
+.pany-list{
+    font-size: 18px;
+    margin-bottom: 47px;
+   
+}
+
+.pany-sc{
+    color:#b48607;
+     border-bottom: 2px #b48607 solid;
+  padding-bottom: 20px;
+  width: 80px;
+}
+.main-main{
+   width: 738px;
+    height:454px;
+    max-height:900px;
+    margin-left:126px;
+}
+.mai{
+    width: 722px;
+    height: 67px;
+}
+.main-big{
+  
+   
+    margin-top: 36px;
+    font-size: 14px;
+    color:#b48607;
+}
+.big-bor{
+      width: 720px;
+    border:1px solid #b48607;
+    position:relative;
+    top:66px;
+  
+ 
+}
+.midd{
+    width: 382px;
+    height: 356px;
+      position: relative;
+    top:34px;
+  
+    
+}
+.midd-big{
+   width: 384px;
+   height: 282px;
+  border: 1px solid;
+ 
+}
+.midd-big img{
+    margin-top: 36px;
+    margin-left: 85px;
+}
+.midd-left{
+    margin-top: 26px;
+    
+
+}
+.midd-somll{
+  
+    height: 55px;
+      margin-left: 37px;
+      margin-top:15px;
+ 
+}
+.mid-one{
+margin-right: 54px;
+
+}
+.mid-last{
+    margin-right: 0
+}
+.midd-right{
+    margin-top: 26px;
+}
+.midd-tx{
+    width: 281px;
+    height: 272px;
+    margin-left:50px;
+    text-align: left;
+}
+.midd-title{
+    font-size: 16px;
+    display: block;
+    margin-top: 37px;
+  margin-bottom: 24px;
+ }
+
+.midd-cent{
+    font-size: 14px;
+    margin-bottom: 18px;  
+}
+.midd-cent i
+    {
+     background:url(../images/tor_lx.jpg) no-repeat;
+  display: block;width:12px;height:15px;float: left;}
+.half-bot{
+    width: 741px;
+    height: 667px;
+   margin-left: 410px;
+   margin-top: 40px;
+    
+}
+.information{
+   width: 228px;
+   height: 26px;
+   line-height: 26px;
+   
+      
+}
+.information-zx{
+    font-size: 18px;
+}
+.information-sand{
+    font-size: 18px;
+    margin-left: 44px;
+    color:#b48607;
+}
+.information-bor{
+    border-bottom:1px solid #b48607;
+    margin-top:15px;
+    width: 751px;
+    position: relative;
+    right:15px;
+}
+.information-img{
+    margin-left: 228px;
+    margin-top: 21px;
+}
+.ranch{
+    width: 86px;
+    height: 16px;
+    margin-top: 52px;
+    display: block;
+    font-size: 14px;
+}
+.information-table{
+    margin-top:21px;
+
+}
+.information-table tr td {
+    padding-left: 19px;
+   
+
+}
+.pany-list a:hover{
+    background: none;
+    
+    
+}
